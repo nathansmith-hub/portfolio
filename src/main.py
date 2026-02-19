@@ -1,3 +1,5 @@
+import os
+
 from textnode import (
     TextNode,
     TextType,
@@ -17,6 +19,8 @@ from markdown_blocks import (
 )
 
 from inline_markdown import text_to_textnodes
+
+from copystatic import copy_static
 
 def text_to_children(text):
     text_nodes = text_to_textnodes(text)
@@ -89,8 +93,11 @@ def markdown_to_html_node(markdown):
     return ParentNode("div", html_block_nodes)
                
 def main():
-    node = TextNode("hello world", TextType.TEXT)
-    print(node)
+    repo_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    static = os.path.join(repo_root, "static")
+    public = os.path.join(repo_root, "public")
+
+    copy_static(static, public)
 
 if __name__ == "__main__":
     main()
