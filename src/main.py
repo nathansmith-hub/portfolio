@@ -2,7 +2,7 @@ import os
 
 from copystatic import copy_static
 
-from gencontent import generate_page
+from gencontent import generate_pages_recursive
                
 def main():
     repo_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -11,11 +11,11 @@ def main():
 
     copy_static(static, public)
 
-    source_index = os.path.join(repo_root, "content", "index.md")
+    source_index = os.path.join(repo_root, "content")
     template = os.path.join(repo_root, "template.html")
-    dest_index = os.path.join(repo_root, "public", "index.html")
+    dest_index = os.path.join(repo_root, "public")
 
-    generate_page(source_index, template, dest_index)
+    generate_pages_recursive(source_index, template, dest_index)
 
 if __name__ == "__main__":
     main()
