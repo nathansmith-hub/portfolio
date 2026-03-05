@@ -2,8 +2,6 @@
 
 [< Back Home](/)
 
-Give me a call anytime to chat about Tolkien!
+Feel free to reach out to me on LinkedIn!
 
-`555-555-5555`
-
-**"Váya márië."**
+`www.linkedin.com/in/nathan-h-smith`
