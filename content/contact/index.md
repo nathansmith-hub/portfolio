@@ -1,7 +1,11 @@
-# Contact the Author
+# Contact Me
 
 [< Back Home](/)
 
-Feel free to reach out to me on LinkedIn!
+Connect with me on LinkedIn:
 
 `www.linkedin.com/in/nathan-h-smith`
+
+Check out my GitHub:
+
+`www.github.com/nathansmith-hub`

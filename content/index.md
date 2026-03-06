@@ -1,47 +1,19 @@
-# Tolkien Fan Club
+# Nathan Smith Portfolio
 
 ![JRR Tolkien sitting](/images/tolkien.png)
 
-Here's the deal, **I like Tolkien**.
+I'm a DevOps enginner based in Christchurch, New Zealand, with a focus on cloud infrastructure, security and automation.  This site is where I share what I'm building and learning: projects from my Boot.dev learning path alongside things I work on in my own time.
 
-> "I am in fact a Hobbit in all but size."
->
-> -- J.R.R. Tolkien
+## About This Site
 
-## Blog posts
+> This portfolio was built using a [static site generator](https://www.boot.dev/courses/build-static-site-generator-python) I wrote myself in Python as part of my [Boot.dev](https://www.boot.dev/) learning path.  It takes markdown files and converts them to HTML, and the site you're viewing right now is the result.
 
-- [Why Glorfindel is More Impressive than Legolas](/blog/glorfindel)
-- [Why Tom Bombadil Was a Mistake](/blog/tom)
-- [The Unparalleled Majesty of "The Lord of the Rings"](/blog/majesty)
-- [Walking Deck](/blog/Walking-Deck)
+## Projects
 
-## Reasons I like Tolkien
+> A mix of guided projects and personal ones. More will be added as I work through my learning path.
 
-- You can spend years studying the legendarium and still not understand its depths
-- It can be enjoyed by children and adults alike
-- Disney _didn't ruin it_ (okay, but Amazon might have)
-- It created an entirely new genre of fantasy
-
-## My favorite characters (in order)
-
-1. Gandalf
-2. Bilbo
-3. Sam
-4. Glorfindel
-5. Galadriel
-6. Elrond
-7. Thorin
-8. Sauron
-9. Aragorn
-
-Here's what `elflang` looks like (the perfect coding language):
-
-```
-func main(){
-    fmt.Println("Aiya, Ambar!")
-}
-```
+- [Walking Deck:](/blog/Walking-Deck) A self-contained presentation deck that tells my professional story, built as part of my job search and displayed here as an example of personal branding.
+- [Asteroids:](/blog/Asteroids) A recreation of the classic Asteroids arcade game built with Python and Pygame, demonstrating object-oriented programming and core Python fundamentals. 
+- [AI Agent:](/blog/AI-Agent) An LLM-powered command-line tool that can read, update, and run Python code using the Gemini API, demonstrating how large language models and agentic coding tools work.
 
 Want to get in touch? [Contact me here](/contact).
-
-This site was generated with a custom-built [static site generator](https://www.boot.dev/courses/build-static-site-generator-python) from the course on [Boot.dev](https://www.boot.dev).
