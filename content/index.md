@@ -1,6 +1,6 @@
 # Nathan Smith Portfolio
 
-![JRR Tolkien sitting](/images/tolkien.png)
+![Nathan Smith Template](/images/Nathan-Smith-template.png)
 
 I'm a DevOps enginner based in Christchurch, New Zealand, with a focus on cloud infrastructure, security and automation.  This site is where I share what I'm building and learning: projects from my Boot.dev learning path alongside things I work on in my own time.
 
