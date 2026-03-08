@@ -2,8 +2,6 @@
 
 [< Back Home](/)
 
-> This is my Walking Deck.
-
 ![Walking Deck 1](/images/WalkingDeck1.png)
 
 ![Walking Deck 2](/images/WalkingDeck2.png)
