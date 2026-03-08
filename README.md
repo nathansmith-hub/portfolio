@@ -1,5 +1,3 @@
-# static-site-generator
+# Portfolio
 
-Static-site-generator is my fourth Boot.dev project
-
-This project is a learning exercise from Boot.dev, focused on building a static site generator from scratch in Python to practice core concepts like file I/O, content parsing, templating, and project structure.
+A portfolio website built using a static site generator I wrote myself in Python as part of my Boot.dev learning path. Projects include guided Boot.dev work and personal projects, with more to be added over time.
