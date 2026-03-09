@@ -6,7 +6,7 @@
 
 ## Overview
 
-[Asteroids](https://en.wikipedia.org/wiki/Asteroids_(video_game)) is a recreation of the classic 1979 arcade game, built with Python and Pygame. A player-controlled ship navigates an asteroid field, shooting to break asteroids into smaller pieces while avoiding collisions. It was my second [Boot.dev](https://www.boot.dev/courses/build-asteroids-python) project and focuses on object-oriented programming and core Python fundamentals.
+[Asteroids](https://en.wikipedia.org/wiki/Asteroids_%28video_game%29) is a recreation of the classic 1979 arcade game, built with Python and Pygame. A player-controlled ship navigates an asteroid field, shooting to break asteroids into smaller pieces while avoiding collisions. It was my second [Boot.dev](https://www.boot.dev/courses/build-asteroids-python) project and focuses on object-oriented programming and core Python fundamentals.
 
 ## How It Was Built
 
