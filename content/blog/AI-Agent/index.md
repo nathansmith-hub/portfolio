@@ -18,4 +18,4 @@ The tool is built in Python and connects to Google's Gemini API. It uses a loop 
 - Explore swapping or adding support for other LLM providers
 - Extend the set of available functions the agent can call
 
-**GitHub**: https://github.com/nathansmith-hub/ai-agent
+**GitHub**: [https://github.com/nathansmith-hub/ai-agent](https://github.com/nathansmith-hub/ai-agent)

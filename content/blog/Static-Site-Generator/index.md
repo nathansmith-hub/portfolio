@@ -18,4 +18,4 @@ The generator is built in Python and works by reading markdown files from a cont
 - Improve the templating system to support multiple layouts
 - Add navigation generation so links between pages are handled automatically
 
-**GitHub**: https://github.com/nathansmith-hub/static-site-generator
+**GitHub**: [https://github.com/nathansmith-hub/static-site-generator](https://github.com/nathansmith-hub/static-site-generator)

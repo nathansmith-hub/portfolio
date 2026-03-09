@@ -18,4 +18,4 @@ The game is built in Python using the Pygame library for rendering and input han
 - Improve asteroid shapes from circles to something closer to the original irregular asteroid appearance
 - Add lives and a game over screen
 
-**GitHub**: https://github.com/nathansmith-hub/asteroids
+**GitHub**: [https://github.com/nathansmith-hub/asteroids](https://github.com/nathansmith-hub/asteroids)
