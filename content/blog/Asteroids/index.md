@@ -1,4 +1,4 @@
-# ASTEROIDS
+# Asteroids
 
 [< Back Home](/)
 
